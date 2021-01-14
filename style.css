@@ -142,3 +142,7 @@ margin-bottom: 20%;
     padding: 0 3px 0 3px;
     
   }
+  ul li{
+    padding: 0 10px 0 10px;
+    padding-left: 5%;
+  }
