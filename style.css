@@ -140,7 +140,7 @@ margin-bottom: 20%;
   .icon i{
     color: hsl(0, 0%, 62%);
     padding: 0 3px 0 3px;
-    
+    margin-bottom: 10px;
   }
   ul li{
     padding: 0 10px 0 10px;
